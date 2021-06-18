@@ -1,0 +1,38 @@
+
+;õ6
+	/host:CPUõˆ˜ˆ˜œÏ
+
+tf_ComputeœÏ
+
+/device:GPU:0"Tõˆ˜my_funcH¨ş„¤PğÊ”šZ
+tracing_count1Z!
+tf_function_calltraced-nonXla"0õˆ˜tf.function-graph_buildingHÀ™øÒP€›Ñß÷"&õˆ˜convert_to_tensorH ù¿¦àP •‰"&õˆ˜convert_to_tensorHğéœÃàP Ğ"&õˆ˜convert_to_tensorH òæøáPàÒÈ"&õˆ˜convert_to_tensorHĞñÚ¤âP¹ã"&õˆ˜convert_to_tensorHàš‡½éPÀÊç"&õˆ˜convert_to_tensorHèÓÖëìP€¹Û"&õˆ˜convert_to_tensorH¡ÀáíPğÚ".õˆ˜TFE_Py_ExecuteCancelableH°Çı‚PÀÉéÚ "=õˆ˜'EagerExecute: __inference_my_func_10107HÈÇ¦¬P°Ñ€® "Bõˆ˜,EagerLocalExecute: __inference_my_func_10107H ¤¾®P‡Á« "4õˆ˜EagerCopyToDeviceAndAddCacheKeyHˆš¾°PèáÖ"2õˆ˜ValidateInputTypeAndPlacementH¨äıØP€Õ´"\õˆ˜EagerKernelExecute 0HÀÍùÛPÈ“¶üZ!
+	step_nameEagerKernelExecute 0Z
+group_id0"Jõˆ˜FunctionRunHø¨­øŸP Â÷Z
+id-730243522712672878Z
+group_id0" õˆ˜tf.constantHØİ¨•õP˜‘²2"+õˆ˜TFE_DeleteTensorHandleHàª¿ÁõP€ÿ¦"-õˆ˜TFE_Py_FastPathExecute_CHøıû’öPè²<"*õˆ˜TFE_DeleteTensorHandleHÀ‘‚¨öP¸ê"*õˆ˜TFE_DeleteTensorHandleH˜´Ù©öP°á"-õˆ˜EagerExecute: LogicalAndHè‡ä¬öPÀìä"2õˆ˜EagerLocalExecute: LogicalAndH¸‹¯öPÀÁ¥"1õˆ˜ValidateInputTypeAndPlacementHØÀ‡¼öPÈ¡j"6õˆ˜EagerKernelExecuteHøÇ‰¾öPø¨åZ
+group_id0"aõˆ˜
+LogicalAndH˜˜ÁÂöP˜©±Z"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1"&õˆ˜convert_to_tensorH ‰ïŒ÷P¸âÏ"-õˆ˜TFE_Py_FastPathExecute_CHÈë’š÷P°ÿ£"+õˆ˜EagerExecute: IdentityHàƒˆ¨÷P˜’ú"0õˆ˜EagerLocalExecute: IdentityHïÜ¨÷P˜¸š"1õˆ˜ValidateInputTypeAndPlacementHè©¯÷P¨¥"6õˆ˜EagerKernelExecuteHç¯÷PğÌçZ
+group_id0"Zõˆ˜IdentityHÈœ‘±÷P˜ïZ
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1"-õˆ˜TFE_Py_FastPathExecute_CHÀÜ˜¿÷P¸¾ä"&õˆ˜convert_to_tensorH°õ­ò÷Pø·Î"&õˆ˜convert_to_tensorHÀÍ¹‰øPˆÑƒ$" õˆ˜tf.constantH ”å™øPÀÍÚ
+"&õˆ˜convert_to_tensorH É¸°øP€ƒû*" õˆ˜tf.constantHà‰¾¼øPĞ±ƒ"+õˆ˜TFE_DeleteTensorHandleHØğ¦ĞøPØ¯©"&õˆ˜convert_to_tensorH¨µ•ŞøPˆÖ´!" õˆ˜tf.constantHØšÎèøPÈßÒ"*õˆ˜TFE_DeleteTensorHandleHƒŠöøPØ´T"-õˆ˜TFE_Py_ExecuteCancelableHˆà¥ˆùPˆÚú%"/õˆ˜EagerExecute: WriteSummaryHĞ¡—‘ùPĞ¥ø"4õˆ˜EagerLocalExecute: WriteSummaryH˜—æ‘ùPÈ§—"1õˆ˜ValidateInputTypeAndPlacementHó—ùP¸™)"6õˆ˜EagerKernelExecuteH€Û˜ùP˜‰èZ
+group_id0"gõˆ˜WriteSummaryHÕÓšùP˜¸‹Z&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"+õˆ˜TFE_DeleteTensorHandleH˜ßî°ùP¸Çê"*õˆ˜TFE_DeleteTensorHandleHĞÔ³ùPĞ“R"*õˆ˜TFE_DeleteTensorHandleH¨²´ùPàÈ" õˆ˜tf.constantHøÿ‚¿ùP°‚â"*õˆ˜TFE_DeleteTensorHandleHĞº¥ÏùPÌT"+õˆ˜TFE_DeleteTensorHandleH¨ùÉĞùP ş‡"*õˆ˜TFE_DeleteTensorHandleHÑ£âùPğóf"*õˆ˜TFE_DeleteTensorHandleH¸ÈäãùP¨´"dõœÏExecutorState::ProcessH¨†Œ“ P€‹ÂJZ
+id-730243522712672878Z
+iter_num0Z
+group_id0"UõœÏMatMulHĞ‚¿¦ Pˆ‰ÅZ
+	long_nameMatMul:MatMulZ
+group_id0Z
+is_eager0"OõœÏReluH ÖãÊ PàæâZ
+	long_name	Relu:ReluZ
+group_id0Z
+is_eager0"SõœÏExecutorDoneCallbackHĞ„ºß Pè±¼Z
+id-730243522712672878Z
+group_id0
